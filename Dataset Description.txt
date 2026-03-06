@@ -1,0 +1,41 @@
+Sensor-Based Aquaponics Fish Pond Dataset (Source: https://www.kaggle.com/datasets/ogbuokiriblessing/sensor-based-aquaponics-fish-pond-datasets?)
+Model Trained by: Wency N. Jorda
+
+This dataset contains time-series water quality measurements collected from an 
+IoT-enabled aquaponics fish pond monitoring system. The data were gathered using 
+multiple environmental sensors deployed across several aquaponics ponds to continuously 
+monitor critical water parameters affecting fish health and aquatic ecosystem stability.
+
+
+Data Collection
+The dataset was generated using an Internet of Things (IoT) monitoring system equipped 
+with water quality sensors connected to a microcontroller and cloud logging platform. 
+Sensor readings were recorded at regular intervals to produce a high-resolution time-series 
+dataset.
+
+Measurements were taken from multiple aquaponics ponds, 
+enabling analysis of water quality variations across different pond environments.
+
+
+
+Parameters Included
+The dataset contains several important water quality indicators commonly 
+used in aquaculture monitoring:
+
+Parameter	           Description
+1.Timestamp	           Date and time when the sensor reading was recorded
+2.Temperature	           Water temperature (°C) affecting fish metabolism and oxygen solubility
+3.pH	                   Acidity or alkalinity of the water
+4.Dissolved Oxygen (DO)	   Amount of oxygen dissolved in water, critical for fish respiration
+5.Turbidity	           Cloudiness of the water caused by suspended particles
+6.Ammonia 	           Concentration of ammonia, which can become toxic to 
+                           fish at high levels
+7.Nitrate	                   Nutrient concentration indicating nitrogen cycle activity
+8.Fish Length	           Recorded length of fish in the monitored pond
+9.Fish Weight	           Recorded weight of fish in the monitored pond
+
+Dataset Characteristics
+Type: Multivariate time-series dataset
+Domain: Aquaculture / Aquaponics monitoring
+Data source: IoT water quality sensor network
+Sampling frequency: High-frequency sensor readings
