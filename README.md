@@ -21,8 +21,7 @@ The result is a practical workflow for early warning and pond management.
 - `data/processed` — cleaned and merged data ready for analysis
 - `notebooks` — Jupyter notebooks for data merging, cleaning, modeling, and evaluation
 - `models` — exported model artifacts (`.pkl` files)
-- `results` — charts, evaluation tables, and output summaries
-- `src` — supporting project code
+- `images` — charts, evaluation tables, and output summaries
 - `save_models.py` — script for training and saving model files
 
 ---
