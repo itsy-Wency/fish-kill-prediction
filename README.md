@@ -106,7 +106,6 @@ Actual sample charts are available in the `images/` folder.
 
 *Interpretation:* this chart displays the ARIMA forecast for dissolved oxygen, showing expected DO trends over time and identifying when levels may fall below the fish-safe threshold.
 
-> These images are stored in the repository and render directly in GitHub.
 
 ---
 
