@@ -15,13 +15,7 @@ The result is a practical workflow for early warning and pond management.
 
 ---
 
-## 🛠️ Tech Stack
-
-🐍 📊 🌲 ⚡ 📈 📉 📓
-
----
-
-## 📁 Repository Structure
+##  Repository Structure
 
 - `data/raw` — original raw datasets
 - `data/processed` — cleaned and merged data ready for analysis
@@ -98,9 +92,7 @@ Forecasted fish_kill_risk:
 The notebooks include the following charts:
 
 - Feature importance for classifier models
-- Classification performance metrics
 - Dissolved oxygen forecast over time
-- Actual vs. forecasted DO trajectories
 
 ### Example visuals
 
@@ -109,10 +101,6 @@ Actual sample charts are available in the `images/` folder.
 ![Feature Importance](images/Feature%20Importance.png)
 
 ![Dissolved Oxygen Forecast ARIMA](images/Dissolved%20Oxygen%20Forecast%20ARIMA.png)
-
-![Feature Analysis](images/Feature%20Analysis.png)
-
-![Parameters Distribution](images/Parameters%20distribution.png)
 
 > These images are stored in the repository and render directly in GitHub.
 
