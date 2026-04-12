@@ -15,11 +15,11 @@ The result is a practical workflow for early warning and pond management.
 
 ---
 
-## �️ Technologies & Languages
+## 🛠️ Technologies & Languages
 
 - 🐍 **Python 3** — core language for data processing and modeling
-- 📊 **Pandas** — data cleaning and feature preparation
-- 🧠 **scikit-learn** — Random Forest classification
+- 🧮 **Pandas** — data cleaning and feature preparation
+- 🌲 **scikit-learn** — Random Forest classification
 - ⚡ **XGBoost** — gradient boosting classifier
 - 📈 **statsmodels** — ARIMA time-series forecasting
 - 📉 **Matplotlib / Seaborn** — visualizations and charts
@@ -27,7 +27,7 @@ The result is a practical workflow for early warning and pond management.
 
 ---
 
-## �📁 Repository Structure
+## 📁 Repository Structure
 
 - `data/raw` — original raw datasets
 - `data/processed` — cleaned and merged data ready for analysis
@@ -110,11 +110,17 @@ The notebooks include the following charts:
 
 ### Example visuals
 
-![Feature Importance Chart](https://via.placeholder.com/800x360?text=Feature+Importance+Chart)
+Actual sample charts are available in the `images/` folder.
 
-![Dissolved Oxygen Forecast Chart](https://via.placeholder.com/800x360?text=Dissolved+Oxygen+Forecast)
+![Feature Importance](images/Feature%20Importance.png)
 
-> If the placeholder graphics do not display, replace them with actual exported chart images located in the repository.
+![Dissolved Oxygen Forecast ARIMA](images/Dissolved%20Oxygen%20Forecast%20ARIMA.png)
+
+![Feature Analysis](images/Feature%20Analysis.png)
+
+![Parameters Distribution](images/Parameters%20distribution.png)
+
+> These images are stored in the repository and render directly in GitHub.
 
 ---
 
