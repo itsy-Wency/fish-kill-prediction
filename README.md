@@ -15,7 +15,19 @@ The result is a practical workflow for early warning and pond management.
 
 ---
 
-## 📁 Repository Structure
+## �️ Technologies & Languages
+
+- 🐍 **Python 3** — core language for data processing and modeling
+- 📊 **Pandas** — data cleaning and feature preparation
+- 🧠 **scikit-learn** — Random Forest classification
+- ⚡ **XGBoost** — gradient boosting classifier
+- 📈 **statsmodels** — ARIMA time-series forecasting
+- 📉 **Matplotlib / Seaborn** — visualizations and charts
+- 📓 **Jupyter Notebook** — interactive analysis and documentation
+
+---
+
+## �📁 Repository Structure
 
 - `data/raw` — original raw datasets
 - `data/processed` — cleaned and merged data ready for analysis
@@ -98,11 +110,11 @@ The notebooks include the following charts:
 
 ### Example visuals
 
-![Feature Importance](https://via.placeholder.com/800x360?text=Feature+Importance+Chart)
+![Feature Importance Chart](https://via.placeholder.com/800x360?text=Feature+Importance+Chart)
 
-![Dissolved Oxygen Forecast](https://via.placeholder.com/800x360?text=Dissolved+Oxygen+Forecast)
+![Dissolved Oxygen Forecast Chart](https://via.placeholder.com/800x360?text=Dissolved+Oxygen+Forecast)
 
-> Replace placeholder images with actual exported notebook charts when available.
+> If the placeholder graphics do not display, replace them with actual exported chart images located in the repository.
 
 ---
 
