@@ -15,15 +15,9 @@ The result is a practical workflow for early warning and pond management.
 
 ---
 
-## 🛠️ Technologies & Languages
+## 🛠️ Tech Stack
 
-- 🐍 **Python 3** — core language for data processing and modeling
-- 🧮 **Pandas** — data cleaning and feature preparation
-- 🌲 **scikit-learn** — Random Forest classification
-- ⚡ **XGBoost** — gradient boosting classifier
-- 📈 **statsmodels** — ARIMA time-series forecasting
-- 📉 **Matplotlib / Seaborn** — visualizations and charts
-- 📓 **Jupyter Notebook** — interactive analysis and documentation
+🐍 📊 🌲 ⚡ 📈 📉 📓
 
 ---
 
