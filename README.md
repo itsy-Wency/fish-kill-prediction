@@ -100,7 +100,11 @@ Actual sample charts are available in the `images/` folder.
 
 ![Feature Importance](images/Feature%20Importance.png)
 
+*Interpretation:* this chart shows the relative importance of each feature used by the classifier, highlighting dissolved oxygen and ammonia as the strongest predictors of fish kill risk.
+
 ![Dissolved Oxygen Forecast ARIMA](images/Dissolved%20Oxygen%20Forecast%20ARIMA.png)
+
+*Interpretation:* this chart displays the ARIMA forecast for dissolved oxygen, showing expected DO trends over time and identifying when levels may fall below the fish-safe threshold.
 
 > These images are stored in the repository and render directly in GitHub.
 
